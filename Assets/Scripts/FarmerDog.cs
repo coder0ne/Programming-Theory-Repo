@@ -13,6 +13,6 @@ public class FarmerDog : MoveForward // INHERITANCE
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("This is the dog of the farmer!");
+        Debug.Log("This is Bingo, the dog of the farmer!");
     }
 }
